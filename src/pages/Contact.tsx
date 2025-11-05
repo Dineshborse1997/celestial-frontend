@@ -3,6 +3,7 @@ import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { Textarea } from "@/components/ui/textarea";
 import { Card, CardContent } from "@/components/ui/card";
+import Map from "@/components/Map";
 
 const contactInfo = [
   {
@@ -164,6 +165,12 @@ const Contact = () => {
               </CardContent>
             </Card>
           </div>
+        </div>
+
+        {/* Map Section */}
+        <div className="mt-12 animate-fade-in" style={{ animationDelay: "0.4s" }}>
+          <h2 className="text-3xl font-bold mb-6 text-center">Visit Us</h2>
+          <Map />
         </div>
       </div>
     </div>

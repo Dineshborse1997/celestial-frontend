@@ -43,7 +43,7 @@ const About = () => {
             <h2 className="text-3xl font-bold mb-6 text-foreground">Our Story</h2>
             <div className="space-y-4 text-muted-foreground leading-relaxed">
               <p>
-                Founded in 2020, MysticSoul India emerged from years of dedicated practice in tarot reading, Vedic astrology, and spiritual healing. What started as a personal journey of discovery has blossomed into a thriving community of spiritual seekers.
+                With over 6 years of experience, MysticSoul India emerged from years of dedicated practice in tarot reading, Vedic astrology, and spiritual healing. What started as a personal journey of discovery has blossomed into a thriving community of spiritual seekers.
               </p>
               <p>
                 Our founder recognized the growing need for authentic spiritual guidance in an increasingly complex world. By combining traditional wisdom with modern accessibility, we've created a sanctuary where ancient practices meet contemporary needs.

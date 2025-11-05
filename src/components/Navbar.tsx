@@ -49,7 +49,7 @@ const Navbar = ({ cartItemCount, onCartOpen }: NavbarProps) => {
             className="flex items-center gap-2 group transition-transform hover:scale-105"
           >
             <Sparkles className="w-8 h-8 text-accent animate-pulse" />
-            <span className="text-2xl font-bold bg-gradient-to-r from-primary to-accent bg-clip-text text-transparent">
+            <span className="text-2xl font-bold text-foreground">
               MysticSoul India
             </span>
           </Link>
